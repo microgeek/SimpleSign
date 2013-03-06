@@ -1,0 +1,5 @@
+name: SimpleSign
+main: me.microgeek.plugins.simplesign.SimpleSign
+version: 1.0
+author: microgeek
+url: http://0x/vc
